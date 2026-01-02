@@ -1,3 +1,4 @@
+id_delito,fecha,franja_horaria,tipo,subtipo,uso_armas,t_respuesta (min),arresto,Id_arresto,Id_oficial,barrio,comuna,latitud,longitud,victimas
 DEL1000647041,1/1/2021,0,Lesiones,Siniestro Vial,,47,si,ARR0217701,1100493,Villa Lugano,8,-34.672422,-58.493447,0
 DEL1000647043,1/1/2021,10,Lesiones,Siniestro Vial,,112,no,,1100460,San Telmo,1,-34.621941,-58.374171,1
 DEL1000647044,1/1/2021,6,Lesiones,Siniestro Vial,,144,no,,1100174,Boca,4,-34.637012,-58.366628,1
